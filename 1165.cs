@@ -8,7 +8,7 @@ public class beecrowd
 
         for (int i = 0; i < n; i++)
         {
-            int x = int.Parse(Console.ReadLine());   // ✅ added ()
+            int x = int.Parse(Console.ReadLine());   
             int conta = 0;
 
             for (int b = 1; b <= x; b++)
